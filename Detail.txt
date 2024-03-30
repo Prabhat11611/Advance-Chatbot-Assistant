@@ -1,0 +1,4 @@
+This chatbot is capable of handling personal questions and answers by the help of Dataset provided in the form of CSV format, also if the answer is not found in the dataset then this chatbot searches for the answers by the help of Google Gemini.
+For fetching the data from the Google Gemini I have used the api key of Google Gemini.
+
+This chatbot is ready within 68 lines of Python Programming Codes.
